@@ -108,7 +108,7 @@ header h1 {
   padding: 10px;
   text-transform: uppercase;
   border-radius: 6px;
-  display: inline-block;
+  display: flex;
   transition: all 0.3s ease 0s;
 }
 
