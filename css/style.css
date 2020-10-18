@@ -100,7 +100,7 @@ header h1 {
 }
 
 .button-port {
-  margin-top: 5px;
+  margin: 5px 10px;
   border: none;
   background: #1f77b4;
   color: #ffffff !important;
@@ -120,6 +120,11 @@ header h1 {
   -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
   -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
   transition: all 0.3s ease 0s;
+}
+
+.port-button {
+  display: flex;
+  justify-content: center;
 }
 
 /******************** Contact ******************/
